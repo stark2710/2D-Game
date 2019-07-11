@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\OculusFirst\Assets\Scripts\textData.cs">
+    <Files>
+      <File FileName="Assets\script\HighScoreM.cs" Line="70" Column="56" />
+      <File FileName="Assets\script\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\BombExplosion.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\playerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\SaveSystem.cs" Line="1" Column="1" />
+      <File FileName="..\OculusFirst\Assets\Scripts\textData.cs" Line="67" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
